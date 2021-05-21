@@ -1,0 +1,30 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.main-div{
+	margin: 140px 50px;
+	width: 250px;
+	height: 250px;
+	border-radius: 900px;
+	background-image: conic-gradient(#e4e4e4 2deg,#2ad0ca,#e1f664,#e4e4e4,#58c4f6,#e4e4e4);
+	position: fixed;
+	border:fixed;
+	border:solid 0.2px;
+	border-color: grey;
+	box-shadow: grey 4px 4px 4px;
+	
+}
+.div-1{
+	margin: 100px 105px;
+	width: 45px;
+	height: 45px;
+	border-radius: 95PX;
+	background-color: white;
+	border:solid 0.1px;
+	border-color: grey;
+	box-shadow: inset grey 1px 1px 1.5px;
+	
+
+
+}
